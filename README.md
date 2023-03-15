@@ -4,7 +4,7 @@ A passionate Software developer from New Zealand
 
 - 🌱 I'm currently learning [C#](https://learn.microsoft.com/en-us/dotnet/csharp/)
 - 🎓 [Dev Academy](https://devacademy.co.nz/) alumni.
-- 📫 Feel free to connect with me on [LinkedIn]("https://www.linkedin.com/in/williamjgsantos")
+- 📫 Connect with me on [LinkedIn](https://www.linkedin.com/in/williamjgsantos)
 - 🤝 Feel free to reach out to me if you have any questions or are interested in collaborating on a project!
 
 ---
