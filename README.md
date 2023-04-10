@@ -15,8 +15,8 @@ A passionate Software developer from New Zealand
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=williamjgsantos&theme=nightowl&show_icons=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=williamjgsantos&layout=compact&theme=nightowl)
+![Anurag's GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=williamjgsantos&theme=nightowl&show_icons=true)
+![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=williamjgsantos&layout=compact&theme=nightowl)
 
 <!--
 **williamjgsantos/williamjgsantos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
