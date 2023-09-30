@@ -2,7 +2,6 @@
 
 A passionate software developer driven by innovation. With boundless curiosity and a knack for crafting transformative solutions, I bring enthusiasm and dedication to every coding endeavour. Let's collaborate and turn your digital dreams into reality!
 
-- 📫 Connect with me on [LinkedIn](https://www.linkedin.com/in/williamjgsantos)
 - 🤝 Feel free to reach out to me if you have any questions or are interested in collaborating on a project!
 
 ---
