@@ -1,6 +1,6 @@
 ### Hi there! I'm [William](http://williamsantos.codes/) 👋
 
-A passionate software developer driven by innovation. With boundless curiosity and a knack for crafting transformative solutions, I bring enthusiasm and dedication to every coding endeavour. Let's collaborate and turn your digital dreams into reality!
+I'm a software developer who loves to innovate and create cool stuff. I'm always curious and excited about new projects, bringing lots of energy and passion to my work. Let's team up and turn your awesome ideas into reality!
 
 - 🤝 Feel free to reach out to me if you have any questions or are interested in collaborating on a project!
 
